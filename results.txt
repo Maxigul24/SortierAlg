@@ -1,0 +1,15 @@
+Computer Name: LAPTOP-EC8O4M7D
+Date of Test: 2025-11-24 17:51:42
+Bubble Sort Time: 5.031392 seconds
+Quick Sort Time: 0.015743 seconds
+
+Computer Name: LAPTOP-EC8O4M7D
+Date of Test: 2025-11-24 17:51:47
+Bubble Sort Time: 4.523917 seconds
+Quick Sort Time: 0.015480 seconds
+
+Computer Name: LAPTOP-EC8O4M7D
+Date of Test: 2025-11-24 17:52:27
+Bubble Sort Time: 3.728002 seconds
+Quick Sort Time: 0.009745 seconds
+
